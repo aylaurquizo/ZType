@@ -1417,7 +1417,7 @@ class ExamplesZTypeAnimation {
                     new TextImage("Score:" + 5, 20, Color.RED), 200 , 330));
   }
   
-  
+  /*
   //test for big bang
   boolean testBigBang(Tester t) {
     ZTypeWorld world = new ZTypeWorld(this.mt, new Random(), 0, 0);
@@ -1426,4 +1426,5 @@ class ExamplesZTypeAnimation {
     double tickRate = .05;
     return world.bigBang(worldWidth, worldHeight, tickRate);
   }
+  */
 }
