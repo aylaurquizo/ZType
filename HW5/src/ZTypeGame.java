@@ -53,7 +53,7 @@ class ZTypeWorld extends World implements WorldConstants {
    * ... this.words.filterOutEmpties()...             -- ILoWord
    * ... this.words.draw(WorldScene) ...              -- WorldScene
    * ... this.move() ...                              -- ILoWord
-   * ... this.selectWord(String) ...                  -- boolean
+   * ... this.selectWord(String) ...                 -- boolean
    */
 
   ZTypeWorld(ILoWord words, Random rand, int ticks, int score) {
